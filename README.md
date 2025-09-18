@@ -1,16 +1,5 @@
-## Hi I'm juan José Borrero 👋
-------
-
-#### 💫 About Me:
-I'm a student passionate about the world of web development and web applications.
-
-UI Wizard: My forte is creating delightful user experiences with HTML, CSS, JavaScript and React.
-
-API Hobbyist: I thrive in the API space, creating seamless connections between applications and databases.
-
-RESTful API Enthusiast: Creating robust and scalable RESTful APIs is my favorite thing. I love creating backends that power amazing interfaces!
-
-Responsive Design Advocate: My mission is to ensure websites look great on all devices. Responsive design is not just a choice; It is a lifestyle!
+Hi, I'm Juan José Borrero 👋
+Web & Mobile Developer passionate about building responsive web apps, mobile-friendly solutions, and automated workflows.
 
 <br>
 
