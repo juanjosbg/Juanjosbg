@@ -9,12 +9,6 @@
 ### 💡 About Me
 I focus on creating **modern web applications** that are **optimized for mobile devices** and **scalable for future growth**.  
 
-Key areas of expertise:  
-- **Mobile-First Web Development:** Building responsive websites and **progressive web apps (PWAs)**.  
-- **Web & Mobile App Integration:** Creating applications that work seamlessly across **web and mobile platforms**.  
-- **Automation & Efficiency:** Designing workflows that **streamline tasks** and improve user experience.  
-- **API & Backend Development:** Developing **RESTful APIs** and server-side solutions for dynamic interfaces.  
-
 ```js
 let aboutMe = {
   name: "Juan José Borrero",
@@ -31,6 +25,12 @@ let aboutMe = {
   description: "Passionate about creating responsive web applications, mobile-friendly solutions, and automated workflows that improve productivity and user experience."
 };
 ```
+Key areas of expertise:  
+- **Mobile-First Web Development:** Building responsive websites and **progressive web apps (PWAs)**.  
+- **Web & Mobile App Integration:** Creating applications that work seamlessly across **web and mobile platforms**.  
+- **Automation & Efficiency:** Designing workflows that **streamline tasks** and improve user experience.  
+- **API & Backend Development:** Developing **RESTful APIs** and server-side solutions for dynamic interfaces.
+
 
 ### 💫 Technology Stack
 
