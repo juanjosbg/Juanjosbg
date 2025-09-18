@@ -1,4 +1,4 @@
-### Hi, I'm Juan José Borrero 👋
+## Hi, I'm Juan José Borrero 👋
 Web & Mobile Developer passionate about building responsive web apps, mobile-friendly solutions, and automated workflows.
 
 <br>
@@ -10,6 +10,7 @@ Web & Mobile Developer passionate about building responsive web apps, mobile-fri
 - Automation & Efficiency: Building automated workflows that streamline tasks, improve productivity, and enhance user experiences.
 - API & Backend Development: Creating RESTful APIs and server-side solutions that power dynamic interfaces.
 
+<br>
 
 ## Technology Stack
 
@@ -38,7 +39,7 @@ Web & Mobile Developer passionate about building responsive web apps, mobile-fri
 
 ### CMS & Deployment:
 
-- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) !- - - [Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) 
+- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) !- - - ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) 
 - ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
