@@ -1,5 +1,6 @@
-### Hi, I'm Juan José Borrero 👋
-**Web & Mobile Developer** passionate about building **responsive web apps**, **mobile-first solutions**, and **automated workflows**.  
+## Hi, I'm Juan José Borrero 👋
+**Web & Mobile Developer** | Building **responsive web apps**, **mobile-first solutions**, and **automation workflows**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosbg/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=googlesites&logoColor=white)](https://juanjosbg.github.io/)
 
@@ -14,7 +15,22 @@ Key areas of expertise:
 - **Automation & Efficiency:** Designing workflows that **streamline tasks** and improve user experience.  
 - **API & Backend Development:** Developing **RESTful APIs** and server-side solutions for dynamic interfaces.  
 
----
+```js
+let aboutMe = {
+  name: "Juan José Borrero",
+  birthPlace: "Cali, Colombia",
+  title: "Web & Mobile Developer",
+  specializing: "Full Stack Developer | Web & Mobile Apps | Automation",
+  interests: ["dancing", "digital drawing", "writing", "learning new tech", "building apps"],
+  focus: [
+    "Mobile-First Web Development",
+    "Web & Mobile App Integration",
+    "Automation & Efficiency",
+    "API & Backend Development"
+  ],
+  description: "Passionate about creating responsive web applications, mobile-friendly solutions, and automated workflows that improve productivity and user experience."
+};
+```
 
 ### 💫 Technology Stack
 
@@ -53,13 +69,7 @@ Key areas of expertise:
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=juanjosbg&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanjosbg&theme=react&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosbg&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=juanjosbg&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=juanjosbg&icon=0&color=0)](https://visitcount.itsvg.in)
