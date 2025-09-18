@@ -31,6 +31,7 @@ Key areas of expertise:
 - **Automation & Efficiency:** Designing workflows that **streamline tasks** and improve user experience.  
 - **API & Backend Development:** Developing **RESTful APIs** and server-side solutions for dynamic interfaces.
 
+---
 
 ### 💫 Technology Stack
 
@@ -66,10 +67,3 @@ Key areas of expertise:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanjosbg&theme=react&hide_border=false)
-
-
-[![](https://visitcount.itsvg.in/api?id=juanjosbg&icon=0&color=0)](https://visitcount.itsvg.in)
