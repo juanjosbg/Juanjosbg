@@ -14,8 +14,8 @@ let aboutMe = {
   name: "Juan José Borrero",
   birthPlace: "Cali, Colombia",
   title: "Web & Mobile Developer",
-  specializing: "Full Stack Developer | Web & Mobile Apps | Automation",
-  interests: ["dancing", "digital drawing", "writing", "learning new tech", "building apps"],
+  specializing: "Front-end | Web & Mobile Apps | Automation",
+  interests: ["football", "video games", "reading", "learning new technologies", "creating web or mobile applications"],
   focus: [
     "Mobile-First Web Development",
     "Web & Mobile App Integration",
