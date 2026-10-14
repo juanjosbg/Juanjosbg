@@ -43,7 +43,7 @@ Front-end developer from Cali, Colombia, focused on **React, Next.js and TypeScr
 | [Chatbot App](https://github.com/juanjosbg/Chatbot-app) | Real-time AI chat that logs every conversation in Firebase for analysis | React · TypeScript · Firebase · LLM API |
 | [Rubik 3x3 Solver](https://github.com/juanjosbg/Rubic-3x3-solution) | 3D Rubik's cube that finds a solution with machine learning in the browser | TypeScript · TensorFlow.js · Three.js |
 | [Algorithmic Trading AI](https://github.com/juanjosbg/Trading-Algorithmic-IA) | Automated trading bot driven by data and decision rules | Python |
-| [Clínica Noé](https://clinica-noe.vercel.app) | Production website for a medical clinic | React · TypeScript · Vercel |
+| [Clínica Colombia Platform](https://github.com/juanjosbg/Game-ClinicaColombia) | Internal platform with a student portal and a staff check-in / check-out tracker | React · TypeScript |
 | [Gym E-commerce Hub](https://gym-ecommerce-hub.vercel.app/) | E-commerce for fitness products, mobile-first | React · TypeScript |
 
 ---
