@@ -13,6 +13,7 @@
 
 Front-end developer from Cali, Colombia, focused on **React, Next.js and TypeScript**. I build fast, mobile-first interfaces and connect them to **AI models, LLM agents and automation workflows** that solve real business problems.
 
+- 🏆 Built and shipped **X-Mate** at the **EAG Global Buildathon 2026** (Ethereum Builders Tour, Colombia chapter)
 - Currently building **AI integrations with LLM agents** (Claude, Codex) for e-commerce and customer service
 - Shipped a **WhatsApp automation** for a fashion e-commerce brand using Meta Cloud API, Supabase and AWS
 - Learning: RAG, the Vercel AI SDK and production-ready AI agents
@@ -28,7 +29,7 @@ Front-end developer from Cali, Colombia, focused on **React, Next.js and TypeScr
 
 **AI & Back-end**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,nodejs,supabase,postgres,firebase,aws" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,supabase,postgres,firebase,aws" />
 
 **Tools**
 
@@ -40,10 +41,11 @@ Front-end developer from Cali, Colombia, focused on **React, Next.js and TypeScr
 
 | Project | What it does | Stack |
 |---|---|---|
+| 🏆 [X-Mate](https://github.com/EmanuelDesarrollo/ethereum-app-transaction) | Stablecoin payments app with an AI agent: merchants charge in natural language, customers pay with their own wallet via QR. Built at the **EAG Global Buildathon 2026** | React Native · TypeScript · Claude API · Node.js · Solidity |
 | [Chatbot App](https://github.com/juanjosbg/Chatbot-app) | Real-time AI chat that logs every conversation in Firebase for analysis | React · TypeScript · Firebase · LLM API |
-| [Rubik 3x3 Solver](https://github.com/juanjosbg/Rubic-3x3-solution) | 3D Rubik's cube that finds a solution with machine learning in the browser | TypeScript · TensorFlow.js · Three.js |
-| [Algorithmic Trading AI](https://github.com/juanjosbg/Trading-Algorithmic-IA) | Automated trading bot driven by data and decision rules | Python |
-| [Clínica Colombia Platform](https://github.com/juanjosbg/Game-ClinicaColombia) | Internal platform with a student portal and a staff check-in / check-out tracker | React · TypeScript |
+| [Rubik's Cube Solver](https://github.com/juanjosbg/Rubic-3x3-solution) | Scans a real cube with the webcam, renders it in 3D and returns the solution | React · TypeScript · Three.js |
+| [Algorithmic Trading AI](https://github.com/juanjosbg/Trading-Algorithmic-IA) | Trading bot that evolves from ML (Random Forest) to reinforcement learning (PPO), served with FastAPI | Python · scikit-learn · Stable-Baselines3 |
+| [Clínica Colombia Platform](https://github.com/juanjosbg/Game-ClinicaColombia) | Gamified training platform for a clinic, with automated reports via n8n | React · TypeScript · Firebase · n8n |
 | [Gym E-commerce Hub](https://gym-ecommerce-hub.vercel.app/) | E-commerce for fitness products, mobile-first | React · TypeScript |
 
 ---
